@@ -1,6 +1,6 @@
-package uppercasereturn.server;
+package callbackexample.server;
 
-import uppercasereturn.shared.UpperCaseServer;
+import callbackexample.shared.UpperCaseServer;
 
 import java.rmi.AlreadyBoundException;
 import java.rmi.RemoteException;

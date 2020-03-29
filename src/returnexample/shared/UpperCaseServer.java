@@ -1,4 +1,4 @@
-package uppercasecallback.shared;
+package returnexample.shared;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

@@ -1,6 +1,6 @@
-package uppercasecallback.server;
+package returnexample.server;
 
-import uppercasecallback.shared.UpperCaseServer;
+import returnexample.shared.UpperCaseServer;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;

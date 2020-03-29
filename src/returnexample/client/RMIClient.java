@@ -1,6 +1,6 @@
-package uppercasecallback.client;
+package returnexample.client;
 
-import uppercasecallback.shared.UpperCaseServer;
+import returnexample.shared.UpperCaseServer;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
